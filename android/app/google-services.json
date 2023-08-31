@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "59176818315",
+    "project_id": "lili-0001",
+    "storage_bucket": "lili-0001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59176818315:android:67b3743080ca23e38de68e",
+        "android_client_info": {
+          "package_name": "com.ivc.lili"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59176818315-fk5jq2bgrplei97piv9flfbkot1tiohf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ivc.lili",
+            "certificate_hash": "242d0b18c4e6d98d2a69b2948a8db7e43bd0d30c"
+          }
+        },
+        {
+          "client_id": "59176818315-6rnadap6dcl5bg749ou27lqssd982h0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdq5g8ukenj69nyYfJo5CUczxrp3Ovki4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59176818315-6rnadap6dcl5bg749ou27lqssd982h0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
